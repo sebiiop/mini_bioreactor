@@ -88,7 +88,7 @@ firmware_url = "https://raw.githubusercontent.com/<username>/<repo_name>/<branch
 
 
 ############################### Main code here ###############################
-
+print("Hello there")
 """
 try:
   s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
